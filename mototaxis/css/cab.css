@@ -117,3 +117,6 @@ form {
     font-weight: bold !important;
     font-size: 10px !important;
 }
+#eva label {
+    color: white !important;
+}
