@@ -1,0 +1,73 @@
+	
+		<Taxis>
+			<sitio>
+				<nombre>5 DE FEBRERO</nombre>
+				<direccion>CALLE DR MARIO PEREZ OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.082715, -96.718543</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>5 DE FEBRERO</nombre>
+				<direccion>CALLE NARANJOS Y CALZADA PORFIRIO DIAZ COLONIA REFORMA OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.081625, -96.718890</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>ALDAMA Y A.D.O.</nombre>
+				<direccion>CALLE EMILIO CARRANZA ESQUINA CALZADA NIÑOS HEROES DE CHAPULTEPC COLONIA REFORMA</direccion>
+				<coordenadas>17.071091, -96.716741</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>ALAMEDA</nombre>
+				<direccion>CALLE DE INDEPENDENCIA ESQUINA GARCIA VIGIL OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.062174, -96.725914</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>CONSTITUCION A.C.</nombre>
+				<direccion>CALZADA MADERO FRENTE A SORIANA OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.063644, -96.733149</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>GRUPO TAXI TOUR PLUS</nombre>
+				<direccion>CALLE DIAZ QUINTAS 115 CENTRO OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.069162, -96.722258</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>LIBERTAD OAXACA A.C.</nombre>
+				<direccion>AVENIDA EDUARDO MATA ESQUINA AVENIDA SIMBOLOS PATRIOS OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.050742, -96.725710</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>MAYORDOMO A.C.</nombre>
+				<direccion>CALLE BUSTAMENTE ESQUINA ARISTA CENTRO OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.055375, -96.726045</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO OLIMPICO A.C.</nombre>
+				<direccion>CENTRAL NORTE SUR ESQUINA CENTRAL ORIENTE PONIENTE UNIDAD HABITACIONAL RICARDO FLORES MAGON OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.084007, -96.696822</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO PRESIDENTE A.C.</nombre>
+				<direccion>CALLE MURGUIA ESQUINA CALLE 5 DE MAYO CENTRO OAXACA DE JUAREZ </direccion>
+				<coordenadas>17.063998, -96.723120</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO SAN PABLO</nombre>
+				<direccion>CALLE NARANJOS ENTRE AMAPOLAS Y JAZMINEZ COLONIA REFORMA OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.080613, -96.713873</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO VILLA DEL MARQUEZ A.C.</nombre>
+				<direccion>CALLE DIAZ QUINTAS</direccion>
+				<coordenadas>17.072835, -96.721633</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO VILLA DEL MARQUEZ A.C.</nombre>
+				<direccion>CAJONES CALZADA NIÑOS HEROES DE CHAPULTEPEC FRENTE AL IMSS</direccion>
+				<coordenadas>17.072069, -96.721027</coordenadas>
+			</sitio>
+			<sitio>
+				<nombre>SITIO 7 PRINCIPES A.C. </nombre>
+				<direccion>PERIFERICO 1006 COLONIA ARTICULO 123 ORIENTE CENTRO OAXACA DE JUAREZ</direccion>
+				<coordenadas>17.058631, -96.712747</coordenadas>
+			</sitio>
+		</Taxis>

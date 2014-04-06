@@ -1,0 +1,119 @@
+body {
+	background:url(../img/box.png) repeat-x, url(../img/box.png) repeat-x bottom,#222;
+	width: 100%;
+	height: 100%;
+	text-transform: uppercase;
+
+}
+
+#centro {
+	position: relative;
+    top: 30%;
+    transform: translateY(-20%);
+    -webkit-transform: translateY(-20%);
+    -moz-transform: translateY(-20%);
+    -ms-transform: translateY(-20%);
+    -o-transform: translateY(-20%);
+}
+
+#logo {
+	width: 100%;
+}
+
+#titulo h1 {
+    color:#333;
+    text-align: center;
+    background-color: yellow;
+    display: block;
+    padding: 5px;
+    font-weight: bold;
+    line-height: inherit;
+}
+
+
+#logo img{
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+    padding-top: 10px;
+}
+
+div#quiz{
+    margin: 0 auto;
+    display: block;
+}
+
+div.btns input, #evaluar{
+    padding: 10px;
+    border: none;
+    background-color: #ffe200;
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: block;
+    margin-top: 2px;
+}
+
+#map-canvas {
+    height: 100%;
+    position: relative;
+}
+
+#salida, #ranking{
+    display: none;
+}
+
+#panel {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    margin-left: -180px;
+    z-index: 5;
+    padding: 5px;
+    border: 1px solid #999;
+    color: white;
+}
+
+#directions-panel {
+    height: 100%;
+    float: right;
+    max-width: 390px;
+    overflow: auto;
+}
+
+#control {
+    background: #fff;
+    padding: 5px;
+    box-shadow: 0 2px 2px rgba(33, 33, 33, 0.4);
+    display: none;
+}
+
+      
+input[type="checkbox"] + label, input[type="radio"] + label {
+    font-size: 0.7em;
+}
+
+.faces {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+form {
+    padding-top: 50px;
+}
+
+#end {
+    position: absolute;
+    min-width: 200px;
+    margin-top: 20px;
+    z-index: 2000;
+}
+
+#colors {
+    margin-left: 10px;
+    background-color:
+}
+
+.gm-style .gm-style-iw {
+    font-weight: bold !important;
+    font-size: 10px !important;
+}
