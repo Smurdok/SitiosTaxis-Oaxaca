@@ -23,7 +23,7 @@ function initialize() {
     
     console.log(rango);
     var rangoStatic = [['ALDAMA Y A.D.O.',2],['GRUPO TAXI TOUR PLUS',2],['SITIO 7 PRINCIPES A.C. ',1],['SITIO PRESIDENTE A.C.',3],['SITIO SAN PABLO',3],];
-    setMarkers(map, taxis, rango);
+    setMarkers(map, taxis, rangoStatic);
     //setMarkers(map, taxis, rangoStatic);
     directionsDisplay.setMap(map);
     
