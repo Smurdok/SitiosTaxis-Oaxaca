@@ -3,14 +3,16 @@
     include("conexion.php");
     
     //numero de veces por valore [12][8][4]//
+    $array = array();
+
     $_arr = "";
 
     $_sqlNumTaxis = "SELECT nSitio, count( nSitio ) as veces FROM evaluacion GROUP BY nSitio";
     $_NumTaxis = mysql_query($_sqlNumTaxis);
     while($_rowNumTaxis = mysql_fetch_array($_NumTaxis)){
-    
         //echo $_rowNumTaxis["nSitio"]."<br>";//El sitio
         $_veces = $_rowNumTaxis["veces"]."<br>";//Cuantas veces aparece
+        $array["nombre"] =  $_rowNumTaxis["nSitio"];
         $_arr = $_arr."['".$_rowNumTaxis["nSitio"]."'";
         $_val = "";
         
@@ -46,10 +48,16 @@
                 $_val = 2;//REGULAR
             else $_val = 3;//BUENO
         }
-        
-        $_arr = $_arr.",".$_val."],";
+        $array["calis"] = $_val;
+        $_arr = $_arr.",".$_val."]+";
+        //$_arr = $_arr.",".$_val;
     }
 
     //$_arr = $_arr."]";
     echo "<select id='ranking'><option value=\"".$_arr."\"></option></select>";
+
+//JSON;
+$array = json_encode($array);
+//echo "<select id='r2'><option value=\"".$array."\"></option></select>";
+//echo $array;
 ?>
